@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-Kalo, ini dedaign untuk menu
+Kalo, ini dedaign untuk menu biar
 ### `npm start`
 
 Runs the app in the development mode.\
